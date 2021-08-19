@@ -1,0 +1,10 @@
+C:\Users\ayoub\Desktop\Ayoub_Allachi_Crypto\obj\Debug\AA_Crypto.csproj.AssemblyReference.cache
+C:\Users\ayoub\Desktop\Ayoub_Allachi_Crypto\obj\Debug\AA_Crypto.csproj.GenerateResource.cache
+C:\Users\ayoub\Desktop\Ayoub_Allachi_Crypto\obj\Debug\AA_Crypto.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\Desktop\Ayoub_Allachi_Crypto\obj\Debug\AA_Crypto.Properties.Resources.resources
+C:\Users\ayoub\Desktop\Ayoub_Allachi_Crypto\obj\Debug\AA_Crypto.Cryptage.resources
+C:\Users\ayoub\Desktop\Ayoub_Allachi_Crypto\bin\Debug\AA_Crypto.exe.config
+C:\Users\ayoub\Desktop\Ayoub_Allachi_Crypto\bin\Debug\AA_Crypto.exe
+C:\Users\ayoub\Desktop\Ayoub_Allachi_Crypto\bin\Debug\AA_Crypto.pdb
+C:\Users\ayoub\Desktop\Ayoub_Allachi_Crypto\obj\Debug\AA_Crypto.exe
+C:\Users\ayoub\Desktop\Ayoub_Allachi_Crypto\obj\Debug\AA_Crypto.pdb
